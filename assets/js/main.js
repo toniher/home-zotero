@@ -1,0 +1,2 @@
+/** Javascript content **/
+import 'bootstrap';

@@ -1,0 +1,10 @@
+{
+	"logging": {
+		"level": "logging.DEBUG",
+		"location": "logfile",
+		"format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+	},
+	"homezotero": {
+	},
+	"port": 8050
+}
